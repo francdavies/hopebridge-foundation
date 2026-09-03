@@ -4,10 +4,10 @@ const Footer = () => {
   return (
     <footer className="bg-purple text-white">
       <Container>
-        <div className="grid gap-10 py-14 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-10 py-14 text-center sm:grid-cols-2 sm:text-left lg:grid-cols-4">
 
           {/* Foundation */}
-          <div className="lg:col-span-2">
+          <div className="sm:col-span-1 lg:col-span-2">
             <a href="/" className="inline-block">
               <p className="font-heading text-2xl font-bold">
                 HopeBridge <span className="text-teal">Foundation</span>
@@ -51,7 +51,7 @@ const Footer = () => {
           </div>
 
           {/* Get Involved */}
-          <div>
+          <div className="sm:col-span-2 sm:justify-self-center sm:w-fit lg:col-span-1 lg:justify-self-start">
             <h3 className="font-heading text-sm font-semibold uppercase tracking-wider text-white">
               Get Involved
             </h3>

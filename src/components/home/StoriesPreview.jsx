@@ -24,8 +24,8 @@ const stories = [
     title: 'Together, we can make a difference.',
     description:
       'A placeholder for a real community impact story that demonstrates the foundation’s work and the people it serves.',
-    image:
-      'https://images.unsplash.com/photo-1559027615-cd4628902d4a?auto=format&fit=crop&w=900&q=85',
+    image: "/images/diane-aguilar-unsplash.jpg"
+,
   },
 ]
 

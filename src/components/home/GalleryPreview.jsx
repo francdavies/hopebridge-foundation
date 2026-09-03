@@ -19,12 +19,12 @@ const galleryImages = [
     className: '',
   },
   {
-    src: 'https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=900&q=85',
+    src: '/images/unsplash-photo.jpg',
     alt: 'Children participating in activities',
     className: '',
   },
   {
-    src: 'https://images.unsplash.com/photo-1559027615-cd4628902d4a?auto=format&fit=crop&w=900&q=85',
+    src: '/images/children.jpg',
     alt: 'Community support activity',
     className: '',
   },
